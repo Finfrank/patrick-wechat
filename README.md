@@ -53,5 +53,3 @@ if you want to use Taro V2 version, please refer to [taro v2 branch](https://git
   Delete the project and reimport it if it was already existed in your project list.
 
 
-
-![patrick](./screenshots/patrick.png)
