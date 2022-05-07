@@ -52,17 +52,6 @@ if you want to use Taro V2 version, please refer to [taro v2 branch](https://git
 
   Delete the project and reimport it if it was already existed in your project list.
 
-## Screenshots
 
-<div align="center">
-  <img src="./screenshots/index.png" width="200" />
-  <img src="./screenshots/introduce.png" width="200" />
-  <img src="./screenshots/questionnaire.png" width="200" />
-  <img src="./screenshots/result.png" width="200" />
-</div>
-
-## Why Patrick
-
-Patrick Star is a fictional character in SpongeBob SquarePants And he loves asking questions!
 
 ![patrick](./screenshots/patrick.png)
