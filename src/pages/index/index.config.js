@@ -1,5 +1,5 @@
 export default {
-  navigationBarTitleText: '问卷宝典',
+  navigationBarTitleText: '防疫小助手',
   enablePullDownRefresh: true,
   enableShareAppMessage: true,
 }

@@ -1,6 +1,5 @@
 const config = {
   projectName: 'patrick-wechat',
-  date: '2019-6-25',
   designWidth: 750,
   deviceRatio: {
     '640': 2.34 / 2,

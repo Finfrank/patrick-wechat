@@ -29,7 +29,7 @@ export default function Index() {
   });
 
   useShareAppMessage(() => ({
-    title: '问卷宝典',
+    title: '防疫小助手',
     path: '/pages/index/index',
   }));
 

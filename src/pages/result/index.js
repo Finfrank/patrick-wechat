@@ -9,7 +9,7 @@ class Result extends Component {
 
   onShareAppMessage() {
     return {
-      title: '问卷宝典',
+      title: '防疫小助手',
       path: '/pages/result/index',
     }
   }

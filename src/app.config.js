@@ -8,7 +8,7 @@ export default {
   window: {
     backgroundTextStyle: 'dark',
     navigationBarBackgroundColor: '#fff',
-    navigationBarTitleText: '问卷宝典',
+    navigationBarTitleText: '防疫小助手',
     navigationBarTextStyle: 'black',
   }
 }
