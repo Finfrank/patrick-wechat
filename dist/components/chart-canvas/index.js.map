@@ -1,0 +1,1 @@
+{"version":3,"file":"components/chart-canvas/index.js","sources":["webpack:///._src_components_chart-canvas_index.js"],"sourcesContent":["\"use strict\";\n/* eslint no-undef: \"off\"*/\nComponent({\n  properties: {\n    opts: Object,\n  },\n})"],"mappings":";;;;;;;;;;;AAAA;AACA;AACA;AAAA;AACA;AACA;AADA;AADA;;;;A","sourceRoot":""}

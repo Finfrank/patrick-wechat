@@ -1,0 +1,27 @@
+{
+    "pages": [
+        "pages/start/start",
+        "pages/index/index",
+        "pages/introduce/index",
+        "pages/questionnaire/index",
+        "pages/result/index"
+    ],
+    "window": {
+        "backgroundTextStyle": "dark",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "网络文明周",
+        "navigationBarTextStyle": "black"
+    },
+    "sitemapLocation": "sitemap.json",
+    "tabBar": {
+        "color": "#707070",
+        "selectedColor": "#000000",
+        "list": [{
+            "pagePath": "pages/index/index"
+          },
+          {
+            "pagePath": "pages/start/start"
+          }
+        ]
+      }
+}

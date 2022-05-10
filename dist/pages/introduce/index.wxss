@@ -1,0 +1,78 @@
+.bg {
+  background-color: #F0F0F0;
+}
+
+.head {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  background-color: #fff;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.head .image {
+  position: relative;
+}
+
+.head .image image {
+  width: 100%;
+}
+
+.head .image text {
+  color: white;
+  font-size: 32rpx;
+  position: absolute;
+  left: 32rpx;
+  bottom: 32rpx;
+}
+
+.head .desc {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: space-around;
+      -ms-flex-pack: distribute;
+          justify-content: space-around;
+  padding-top: 6rpx;
+  padding-bottom: 32rpx;
+}
+
+.head .desc text {
+  color: #999;
+  font-size: 24rpx;
+}
+
+.head .btns {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: space-around;
+      -ms-flex-pack: distribute;
+          justify-content: space-around;
+  margin-bottom: 42rpx;
+}
+
+.head .btns .at-button {
+  height: 78rpx;
+  line-height: 76rpx;
+  font-size: 28rpx;
+}
+
+.desc {
+  background-color: #fff;
+  padding: 24rpx 12rpx;
+}
+
+.desc .title {
+  margin: 12rpx 6rpx;
+}
+
+.desc .txt {
+  font-size: 28rpx;
+  color: #7F7F7F;
+  margin: 18rpx;
+}

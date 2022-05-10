@@ -94,7 +94,7 @@ class Result extends Component {
       <View className='page'>
         <View className='doc-body bg'>
           <View className='panel'>
-            待实现
+            您的得分
             <chart-canvas opts={opts} />
           </View>
         </View>

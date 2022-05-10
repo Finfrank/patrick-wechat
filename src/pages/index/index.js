@@ -49,7 +49,7 @@ export default function Index() {
     <View className='page'>
       <View className='doc-body bg'>
         <View className='panel'>
-          <View className='panel__title'>问卷列表</View>
+          <View className='panel__title'>问卷</View>
           <View className='panel__content no-padding'>
             <View className='example-item list'>
               {loading ? (

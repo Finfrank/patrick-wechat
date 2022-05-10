@@ -1,0 +1,18 @@
+.list {
+  position: relative;
+  min-height: 128rpx;
+}
+.list .at-list__item {
+  padding: 22rpx 24rpx;
+}
+.list .at-list__item .item-content__info-title {
+  font-size: 28rpx;
+}
+.list .at-list__item .item-extra__info {
+  margin-right: 4rpx;
+  font-size: 26rpx;
+  white-space: normal;
+}
+.list .at-list__item .item-extra__icon-arrow {
+  font-size: 38rpx;
+}

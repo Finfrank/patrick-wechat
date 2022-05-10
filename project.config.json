@@ -1,6 +1,6 @@
 {
     "projectname": "patrick-wechat",
-    "description": "questionnaire app",
+    "description": "项目配置文件，详见文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/projectconfig.html",
     "appid": "wxed570e65271847e2",
     "miniprogramRoot": "dist/",
     "setting": {
@@ -9,7 +9,7 @@
         "enhance": true,
         "postcss": false,
         "preloadBackgroundData": false,
-        "minified": false,
+        "minified": true,
         "newFeature": true,
         "coverView": true,
         "nodeModules": false,
@@ -39,11 +39,21 @@
         "minifyWXML": true,
         "showES6CompileOption": false,
         "useCompilerPlugins": false,
-        "ignoreUploadUnusedFiles": true
+        "ignoreUploadUnusedFiles": true,
+        "useStaticServer": true
     },
     "compileType": "miniprogram",
     "simulatorType": "wechat",
     "simulatorPluginLibVersion": {},
     "libVersion": "2.24.1",
-    "condition": {}
+    "condition": {},
+    "srcMiniprogramRoot": "dist/",
+    "packOptions": {
+        "ignore": [],
+        "include": []
+    },
+    "editorSetting": {
+        "tabIndent": "insertSpaces",
+        "tabSize": 4
+    }
 }
